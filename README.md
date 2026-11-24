@@ -1,3 +1,11 @@
+# Manipulação de arquivos e tratamento de exceções
+
+## Objetivo e conhecimentos praticados
+
+Estudo de Node.js com exercícios de tratamento de exceções em APIs de frete e Pokémon, além de consulta de CEP, no contexto de leitura e escrita de arquivos.
+
+## Material original
+
 ![](https://i.imgur.com/xG74tOh.png)
 
 # Exercícios - Leitura e Escrita em Arquivos
